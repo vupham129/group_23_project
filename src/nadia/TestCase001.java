@@ -1,4 +1,4 @@
-package Nadia;
+package nadia;
 
 public class TestCase001 {
 
